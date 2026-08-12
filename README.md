@@ -1,130 +1,128 @@
 # 💫 Lumi
 
-> **Meet people. Match naturally. Connect on Telegram.**
-
-Lumi is a social matching experience built for Telegram. Create your profile, discover people, find mutual matches, and start connecting — all from Telegram.
+<p align="center">
+  <strong>Meet people. Match naturally. Connect on Telegram.</strong>
+</p>
 
 <p align="center">
-  <a href="https://t.me/Lumimatch_bot"><strong>💬 Open Lumi on Telegram</strong></a>
+  Lumi is a social matching experience that lives inside Telegram.
+</p>
+
+<p align="center">
+  <a href="https://t.me/Lumimatch_bot">💬 Start with Lumi</a>
 </p>
 
 ---
 
-## 🌍 What is Lumi?
+## 🌍 Meet someone new
 
-Meeting new people shouldn't have to be complicated.
+Lumi makes it simple to discover people and start new connections — without leaving Telegram.
 
-Lumi lets you discover people through profiles and connect based on what you're looking for. Whether you're here to make friends, chat, flirt, or find something serious, Lumi gives you a simple way to meet people through Telegram.
+Create your profile, tell Lumi what kind of connection you're looking for, discover other people, and connect when the interest is mutual.
 
-No separate social network to learn. **Just Telegram and Lumi.**
-
----
-
-## ✨ How Lumi works
-
-### 1. 👤 Create your profile
-
-Tell Lumi a little about yourself — your name, age, interests, location, photos, and the kind of connection you're looking for.
-
-### 2. 🔎 Discover people
-
-Browse profiles and discover people who match your preferences.
-
-### 3. ❤️ Like or pass
-
-Like someone you're interested in or pass when they're not your match.
-
-### 4. 💫 Match
-
-When the interest is mutual, Lumi creates a match.
-
-### 5. 💬 Connect
-
-Take the conversation to Telegram and get to know each other.
+Whether you're looking for **friendship, conversation, a little flirt, or something serious**, Lumi is built around helping people find the right kind of connection.
 
 ---
 
-## 💭 Find the connection you're looking for
+## ✨ How it works
 
-Lumi supports different reasons for meeting someone:
+**1. Create your profile**  
+Introduce yourself with your basic details, photos, location, and what you're looking for.
 
-- 🤝 **Friendship** — meet new friends
-- 💬 **Just Chat** — have a conversation
-- 💕 **Flirt** — meet someone you vibe with
-- 💍 **Serious** — look for a meaningful relationship
+**2. Discover people**  
+Browse profiles and find people based on your preferences and discovery settings.
 
-Choose what you're looking for and discover people with similar intentions.
+**3. Like or pass**  
+See someone you'd like to know? Like them. Not interested? Pass.
+
+**4. Get a match**  
+When two people like each other, it's a match.
+
+**5. Connect on Telegram**  
+Start getting to know your match through Telegram.
 
 ---
 
-## 📍 Discover people around you
+## 💭 What are you looking for?
 
-Lumi can use your location to help you discover people nearby.
+Choose the kind of connection you want to find:
 
-Want to meet people beyond your area? **Lumi Premium** opens up a wider matching experience.
+| Mood | Looking for |
+|---|---|
+| 🤝 **Friendship** | Meet new friends |
+| 💬 **Just Chat** | Have a conversation |
+| 💕 **Flirt** | Find someone you vibe with |
+| 💍 **Serious** | Look for something meaningful |
+
+Your choice helps shape the people you discover on Lumi.
+
+---
+
+## 📍 Start nearby. Go further.
+
+Lumi can help you discover people around your location, making it easier to meet people in your area.
+
+Want to expand your search? **Lumi Premium** gives you access to a wider discovery experience.
 
 ---
 
 ## ⭐ Lumi Premium
 
-Want more from Lumi?
+For people who want more freedom to discover and connect, Lumi Premium adds extra features to the experience.
 
-Premium gives you access to additional ways to discover and connect with people, including:
+- 🌍 **Global matching**
+- ♾️ **Unlimited swipes**
+- ⭐ **Super Likes**
+- 👀 **See who liked you**
+- 🚀 **Priority discovery**
+- 👻 **Invisible mode**
+- 🚫 **Ad-free experience**
 
-- 🌍 Global matching
-- ♾️ Unlimited swipes
-- ⭐ Super Likes
-- 👀 See who liked you
-- 🚀 Priority discovery
-- 👻 Invisible mode
-- 🚫 Ad-free experience
-
-Premium is available directly through Telegram using **Telegram Stars**.
+Premium is available through Telegram using **Telegram Stars**.
 
 ---
 
-## 🛡️ Stay in control
+## 🛡️ You're in control
 
-Your experience matters.
+Meeting people online should feel comfortable and safe.
 
-Lumi gives you tools to:
+Lumi gives you tools to manage your experience, including:
 
-- 🚫 Block people you don't want to interact with
-- 🚩 Report inappropriate profiles or behavior
-- ⚙️ Manage your discovery settings
-- 👻 Choose whether you want to be visible while browsing
+- 🚫 **Block** people you don't want to interact with
+- 🚩 **Report** inappropriate profiles or behavior
+- ⚙️ **Manage your discovery settings**
+- 👻 **Control your visibility** while browsing
 
-If someone makes you uncomfortable, you can block or report them directly through Lumi.
+If someone makes you uncomfortable, you can block or report them through Lumi.
+
+> **Stay aware, protect your personal information, and use your best judgment when meeting people online.**
 
 ---
 
 ## 🎁 Invite your friends
 
-Lumi also includes a referral system.
+Found someone who would enjoy Lumi?
 
-Share your personal Lumi referral link with friends and earn rewards when they join.
+Share your personal referral link with friends and earn rewards when they join.
 
 ---
 
-## 🌐 The Lumi Website
+## 🌐 About this website
 
-You're looking at the official Lumi website.
+This repository contains the **official Lumi website**.
 
-This site is designed to give you a quick introduction to Lumi, explain how the experience works, and help you get started.
+The website introduces Lumi, explains the experience, highlights its features, and gives visitors a direct way to get started.
 
 The actual Lumi experience happens inside **Telegram**.
-
-### The two parts
 
 ```text
         🌐 Lumi Website
               │
-              │ Learn about Lumi
-              │
+              │ Discover Lumi
               ▼
         💫 Lumi on Telegram
               │
-              ├── Create profile
+              ├── Create your profile
               ├── Discover people
               ├── Like & match
               └── Connect
@@ -132,29 +130,27 @@ The actual Lumi experience happens inside **Telegram**.
 
 ---
 
-## 🔗 Get started
+## 🚀 Get started
 
-### 💬 Open Lumi
+Ready to meet someone new?
 
-**[Start meeting people on Telegram →](https://t.me/Lumimatch_bot)**
-
-### 🌐 Visit the website
-
-**[lumimatch.vercel.app](https://lumimatch.vercel.app/)**
+<p align="center">
+  <a href="https://t.me/Lumimatch_bot"><strong>💬 Open Lumi on Telegram →</strong></a>
+</p>
 
 ---
 
-## 🛠️ About this repository
+## 🛠️ Website
 
-This repository contains the **Lumi landing website**.
+The Lumi website is intentionally lightweight and focused on the user experience.
 
-It is a lightweight frontend built with:
+**Built with:**
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Vanilla JavaScript
 
-The website is intentionally simple, fast, responsive, and easy to maintain.
+No framework or build process is required.
 
 ### Project structure
 
@@ -168,23 +164,30 @@ Lumi-Website/
 
 ---
 
-## 📱 Built for every screen
+## 📱 Designed for every screen
 
-Lumi's website works across:
+The website is responsive and designed for:
 
 - 📱 Mobile phones
 - 📲 Tablets
 - 💻 Desktop browsers
 
-The primary experience remains centered around Telegram, where users actually use Lumi.
+The main call-to-action always leads users back to the Telegram experience where Lumi lives.
 
 ---
 
 ## 🔒 Privacy & security
 
-This website does not contain private bot credentials, database credentials, API keys, or other secrets.
+This public website repository contains **no private bot credentials, API keys, database credentials, or other secrets**.
 
-Lumi users should always be careful about the personal information they choose to share with people they meet online.
+Lumi users should avoid sharing sensitive personal information with people they meet online and should use the available block and report tools when necessary.
+
+---
+
+## 🔗 Links
+
+- 💬 **Lumi on Telegram:** https://t.me/Lumimatch_bot
+- 🌐 **Lumi Website:** https://lumimatch.vercel.app/
 
 ---
 
