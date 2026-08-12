@@ -1,188 +1,235 @@
-# 💫 Lumi
-
-> **Meet new friends. Make real connections.**
->
-> Lumi is a Telegram-based social matching platform designed to help people discover new friends nearby and connect with people around the world.
+# 💫 Lumi Website
 
 <p align="center">
-  <a href="https://t.me/Lumimatch_bot"><strong>🚀 Open Lumi on Telegram</strong></a>
+  <strong>Meet people. Match naturally. Connect on Telegram.</strong>
+</p>
+
+<p align="center">
+  The official website for <a href="https://t.me/Lumimatch_bot">Lumi</a> — a Telegram-based social matching bot.
+</p>
+
+<p align="center">
+  <a href="https://t.me/Lumimatch_bot">💬 Open Lumi</a> ·
+  <a href="https://lumimatch.vercel.app/">🌐 Website</a> ·
+  <a href="https://github.com/Ramsfield30/Lumi">🤖 Bot Repository</a>
 </p>
 
 ---
 
-## 🌍 About Lumi
+## 💫 What is Lumi?
 
-Lumi makes meeting new people simple — directly through Telegram, with no separate app required.
+Lumi is a **Telegram social matching bot** built around discovering people, creating meaningful connections, and meeting others through Telegram.
 
-Users can create a profile, discover people based on their location and preferences, like profiles, and connect when the interest is mutual.
+Users create a profile, choose who they want to meet, set their location and mood, then discover other profiles through Lumi's matching system.
 
-The platform is designed around **local discovery first**, with **Lumi Premium** unlocking global matching and additional features.
+When two people like each other, Lumi creates a **match** and connects the experience through Telegram.
 
-### ✨ Core experience
-
-- 👤 Create a personal profile
-- 📍 Discover people nearby
-- ❤️ Like profiles
-- 💫 Get mutual matches
-- 💬 Connect through Telegram
-- 🌍 Unlock global matching with Premium
-- 🛡️ Report and block users
+This repository is **only the website**. The actual Lumi bot and its application logic live in the [`Ramsfield30/Lumi`](https://github.com/Ramsfield30/Lumi) repository.
 
 ---
 
-## ⭐ Lumi Premium
+## ✨ What Lumi offers
 
-Premium expands the experience beyond local matching.
+### 👤 Profiles
 
-| Feature | Free | Premium |
-|---|:---:|:---:|
-| Local matching | ✅ | ✅ |
-| Profile discovery | ✅ | ✅ |
-| Mutual matching | ✅ | ✅ |
-| Telegram connection | ✅ | ✅ |
-| Global matching | — | ✅ |
-| Unlimited swipes | — | ✅ |
-| Super Likes | — | ✅ |
-| Profile Boost | — | ✅ |
-| Invisible Mode | — | ✅ |
-| Priority queue | — | ✅ |
-| Undo last pass | — | ✅ |
-| Ad-free experience | — | ✅ |
+Users can build and manage a profile with:
 
-Premium plans are presented in the website and are purchased through the Lumi Telegram experience.
+- Name
+- Age
+- Gender
+- Who they want to meet
+- Location
+- Bio
+- Profile photos
+- Optional profile video
+- Mood
+
+Profiles can also be edited after registration.
+
+### ❤️ Matching
+
+Lumi's core experience is profile discovery and matching.
+
+Users can:
+
+- Browse profiles
+- ❤️ Like
+- 👎 Pass
+- ⭐ Super Like
+- See incoming likes
+- Create mutual matches
+- Stop searching when they want
+
+### 📍 Location discovery
+
+Lumi supports location-based discovery. Users can share their Telegram location or provide their country manually during registration.
+
+### 💭 Mood
+
+Users can indicate the kind of connection they are looking for:
+
+- 🤝 Friendship
+- 💬 Just Chat
+- 💕 Flirt
+- 💍 Serious
+
+### ⭐ Premium
+
+Lumi also has a Premium experience powered by **Telegram Stars**.
+
+Premium functionality in the bot includes features such as:
+
+- 🌍 Global matching
+- ♾️ Unlimited swipes
+- ⭐ Super Likes
+- 👀 See who liked you
+- 🚀 Priority queue
+- 👻 Invisible mode
+- 🚫 Ad-free experience
+
+Premium subscriptions are handled inside Telegram.
+
+### 🛡️ Safety & moderation
+
+Lumi includes tools for users to report and block other users.
+
+The bot also has an administrative moderation system for reviewing reports and managing users.
+
+### 🎁 Referrals
+
+Lumi includes a referral system that lets users invite others through personal referral links and earn Premium rewards for successful referrals.
 
 ---
 
-## 🖥️ Lumi Website
+## 🌐 About this website
 
-This repository contains the official Lumi landing page — a lightweight, responsive website that introduces the platform and directs users to the Lumi Telegram bot.
+The website is the **public-facing side of Lumi**.
+
+Its purpose is to explain the product, communicate its features, introduce Premium, and give visitors a direct path into the Telegram bot.
+
+It is deliberately separate from the bot code so the website can evolve independently from Lumi's backend and Telegram handlers.
 
 ### Website sections
 
-- **Hero** — Lumi introduction and Telegram call-to-action
-- **How It Works** — three-step explanation of the matching flow
-- **Features** — key Lumi capabilities
-- **Premium** — Premium features and plans
-- **CTA** — direct entry to the Telegram bot
-- **Footer** — Lumi links and attribution
+- **Hero** — introduces Lumi and links to Telegram
+- **How it works** — explains the matching journey
+- **Features** — highlights Lumi functionality
+- **Premium** — presents the Premium experience
+- **CTA** — sends visitors to Lumi on Telegram
+- **Footer** — project links and information
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built with
 
-The website intentionally uses a simple frontend stack:
+The website is a lightweight static frontend:
 
-- **HTML5** — semantic page structure
-- **CSS3** — responsive layout, gradients, animations and visual effects
-- **Vanilla JavaScript** — interactions and scroll animations
-- **Google Fonts** — Nunito typography
-- **Telegram** — primary platform for the Lumi experience
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript**
+- **Google Fonts — Nunito**
 
-No frontend framework or build step is required.
+There is no frontend framework or package manager required.
 
 ---
 
-## 📁 Project Structure
+## 📁 Project structure
 
 ```text
 Lumi-Website/
-├── index.html       # Main landing page
-├── style.css        # Website styling and responsive design
-├── script.js        # Frontend interactions and animations
-└── README.md        # Project documentation
+│
+├── index.html      # Website markup and content
+├── style.css       # Layout, responsive design and visual effects
+├── script.js       # Interactions and animations
+└── README.md       # Project documentation
 ```
 
 ---
 
-## 🚀 Run Locally
+## 🚀 Run locally
 
-Because Lumi is a static website, you can run it without installing a framework or package manager.
+Clone the repository:
 
-### Option 1 — Open directly
+```bash
+git clone https://github.com/Ramsfield30/Lumi-Website.git
+cd Lumi-Website
+```
 
-Open `index.html` in a browser.
+Then open `index.html` in your browser.
 
-### Option 2 — Use a local server
-
-If you have Python installed:
+Or run a simple local server:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then open:
+Open `http://localhost:8000`.
+
+---
+
+## 🔗 Lumi ecosystem
+
+| Project | Purpose |
+|---|---|
+| [`Lumi`](https://github.com/Ramsfield30/Lumi) | 🤖 Telegram bot and application logic |
+| [`Lumi-Website`](https://github.com/Ramsfield30/Lumi-Website) | 🌐 Public website |
+| [Lumi on Telegram](https://t.me/Lumimatch_bot) | 💬 User-facing Telegram experience |
+
+The **bot repository is the source of truth for Lumi's functionality**. The website describes and presents that product.
+
+---
+
+## 🔐 Security
+
+This website contains **no bot tokens, database credentials, API keys, or other private configuration**.
+
+Secrets belong in environment variables or other secure deployment configuration and should never be committed to the repository.
+
+If you are working on the Lumi bot, keep credentials outside source control and use a `.env` file locally with an appropriate `.gitignore` rule.
+
+---
+
+## 📱 Responsive by design
+
+The website is designed for:
+
+- 📱 Mobile
+- 📲 Tablet
+- 💻 Desktop
+
+The interface adapts to smaller screens while keeping the primary Telegram call-to-action easy to access.
+
+---
+
+## 📌 Project status
+
+Lumi is an actively developed Telegram bot with a dedicated public website.
+
+The website and bot are maintained independently:
 
 ```text
-http://localhost:8000
+                 💫 LUMI
+                    │
+          ┌─────────┴─────────┐
+          │                   │
+       Website               Bot
+          │                   │
+   Public experience     Actual product
+          │                   │
+   HTML/CSS/JS          Node.js/Telegraf
+                              │
+                           Telegram
 ```
-
----
-
-## 📱 Mobile First
-
-The website is designed to work across:
-
-- 📱 Mobile phones
-- 📲 Tablets
-- 💻 Desktop browsers
-
-The layout adapts automatically to smaller screens, with touch-friendly buttons and simplified visual elements on mobile.
-
----
-
-## 🔗 Links
-
-**Lumi Telegram Bot:**
-
-https://t.me/Lumimatch_bot
-
-**Lumi Website:**
-
-https://lumimatch.vercel.app/
-
-**GitHub Repository:**
-
-https://github.com/Ramsfield30/Lumi-Website
-
----
-
-## 🔐 Safety & Privacy
-
-Lumi is intended for genuine social connections. Users should avoid sharing sensitive personal information with people they meet online.
-
-The Lumi experience should provide mechanisms for users to **report and block** inappropriate accounts and behavior.
-
----
-
-## 🗺️ Roadmap
-
-Potential future improvements include:
-
-- [ ] Improved profile discovery and filtering
-- [ ] More advanced matching preferences
-- [ ] Expanded moderation tools
-- [ ] Better Premium management
-- [ ] Profile verification
-- [ ] Improved referral system
-- [ ] Additional social discovery features
-
----
-
-## 🤝 Contributing
-
-This project is currently maintained as the Lumi website repository.
-
-For changes, improvements, or bug fixes, keep the frontend lightweight and preserve the mobile-first experience.
 
 ---
 
 ## 📄 License
 
-No open-source license has currently been specified for this project. Unless a license is added, the repository should be treated as **all rights reserved**.
+No open-source license has been specified for this repository. Unless a license is added, the project remains **all rights reserved**.
 
 ---
 
 <p align="center">
   <strong>💫 Lumi</strong><br>
-  Meet nearby. Match naturally. Connect globally.
+  <em>Meet people. Match naturally. Connect on Telegram.</em>
 </p>
