@@ -5,7 +5,8 @@
 Lumi is a social matching experience built for Telegram. It helps you discover people, find mutual connections, and start conversations — all through Telegram.
 
 <p align="center">
-  <a href="https://t.me/Lumimatch_bot"><strong>💬 Start with Lumi →</strong></a>
+  <a href="https://lumi-green-rho.vercel.app/"><strong>🌐 Visit Lumi Website</strong></a> ·
+  <a href="https://t.me/Lumimatch_bot"><strong>💬 Start with Lumi</strong></a>
 </p>
 
 ---
@@ -106,7 +107,11 @@ Share your personal referral link with friends and earn rewards when they join.
 Lumi lives on Telegram, so getting started is simple.
 
 <p align="center">
-  <a href="https://t.me/Lumimatch_bot"><strong>💫 Open Lumi on Telegram</strong></a>
+  <a href="https://lumi-green-rho.vercel.app/"><strong>🌐 Visit the Lumi Website</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/Lumimatch_bot"><strong>💫 Open Lumi on Telegram →</strong></a>
 </p>
 
 ---
